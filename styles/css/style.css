@@ -1,0 +1,16 @@
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-color:darkgrey;
+
+}
+h3 {
+    color:skyblue;
+}
+img {
+    width :700px;
+    height:450px;
+}
+.main_ft {
+    background-color: dimgray;
+}
